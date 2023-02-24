@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ShopTest
+comment1.params=
+comment1.target=void\ constructorTest()
+comment2.params=
+comment2.target=void\ sellTest()
+comment3.params=
+comment3.target=void\ totalTest()
+comment4.params=
+comment4.target=void\ fullyRestockFromEmpty()
+comment5.params=
+comment5.target=void\ requestOverStock()
+comment6.params=
+comment6.target=void\ changeStockMax()
+comment7.params=
+comment7.target=void\ setMaxLevelTooLow()
+numComments=8

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Customer\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Customer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Customer\r\n
+comment10.params=budgetAmount
+comment10.target=void\ setBudget(int)
+comment11.params=
+comment11.target=int\ getBudget()
+comment2.params=
+comment2.target=int\ getAmountSpent()
+comment3.params=
+comment3.target=Shop\ getCurrentShop()
+comment4.params=
+comment4.target=boolean\ hasUnlimitedBudget()
+comment5.params=currentShop
+comment5.target=void\ enter(Shop)
+comment6.params=
+comment6.target=void\ exit()
+comment7.params=
+comment7.target=boolean\ inShop()
+comment8.params=buyAmount
+comment8.target=boolean\ hasEnough(int)
+comment9.params=buyAmount
+comment9.target=void\ buy(int)
+numComments=12
